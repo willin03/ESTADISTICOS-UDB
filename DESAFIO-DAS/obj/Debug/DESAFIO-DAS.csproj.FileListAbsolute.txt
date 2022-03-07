@@ -1,0 +1,16 @@
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\bin\Debug\DESAFIO-DAS.exe.config
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\bin\Debug\DESAFIO-DAS.exe
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\bin\Debug\DESAFIO-DAS.pdb
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.csproj.AssemblyReference.cache
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Login.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Properties.Resources.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Splash.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.csproj.GenerateResource.cache
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.csproj.CoreCompileInputs.cache
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.exe
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO-DAS.pdb
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Lenguajes.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Menu.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Libros.resources
+C:\Users\William Garcia\source\repos\DESAFIO-DAS\DESAFIO-DAS\obj\Debug\DESAFIO_DAS.Television.resources
